@@ -39,7 +39,7 @@ GAME_ENDPOINT = 'https://api.twitch.tv/helix/games?id={0}'.format(loads(r.text)[
 
 g = requests.get(url = GAME_ENDPOINT, headers = head)
 
-# La payload tag follower <@&405395588763353089>
+# La payload
 payload = {
     'username':"Botname",
     'content': "message",
