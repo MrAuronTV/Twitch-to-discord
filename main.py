@@ -9,7 +9,7 @@ from urllib.error import HTTPError
 from json import loads
 
 WEBHOOK_URL = 'YOUR_WEBHOOK_URL' # Discord webhook url
-PATH = 'YOUR_PATH' #Path where you stock clip id for doesnt spam discord
+PATH = 'YOUR_PATH' #Path where you stock stream id for doesnt spam discord
 
 try:
     id = pickle.load(open("{}/twitch".format(PATH), "rb"))
