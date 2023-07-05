@@ -2,6 +2,8 @@
 
 Script python qui permet d'annoncer automatiquement votre stream twitch sur son serveur discord grace au webhook
 
+Python script that allows you to automatically announce your twitch stream on your discord server using the webhook
+
 Kick : https://www.kick.com/mraurontv     
 Twitch : https://www.twitch.tv/mraurontv    
 Youtube : https://www.youtube.com/user/mraurontv    
